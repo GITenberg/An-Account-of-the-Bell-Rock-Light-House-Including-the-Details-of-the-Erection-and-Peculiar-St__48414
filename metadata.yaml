@@ -1,4 +1,8 @@
 _repo: An-Account-of-the-Bell-Rock-Light-House-Including-the-Details-of-the-Erection-and-Peculiar-St__48414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48414-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Robert
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44788'
     url: http://www.gutenberg.org/2009/agents/44788
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48414#An-Account-of-the-Bell-Rock-Light-House-Including-the-Details-of-the-Erection-and-Peculiar-St_
 gutenberg_issued: '2015-03-05'
 gutenberg_type: Text
 identifiers:
